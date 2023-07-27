@@ -67,7 +67,7 @@ public class Authentication {
      * @param password user logged in password
      */
     public void login(String email, String password) {
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.elementToBeClickable(login_btn));
 
         driver.findElement(email_loginInput).sendKeys(email);
