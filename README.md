@@ -44,7 +44,19 @@ In previous file it contains a sheet called [YallaKora Defects Report] that has 
 
 
 ## Third Part:
+I created test account to login with, since facebook temporarily removed the ability to create new test users.
+* To run Facebook UI test cases, make sure that Google Chrome is updated with last version [115.0.5790.102]
+* Using data-driven solution in regiteration and login test cases.
+
 
 
 
 ## Fourth Part:
+
+
+```
+===============================================
+Default Suite
+Total tests run: 16, Failures: 0, Skips: 0
+===============================================
+```
