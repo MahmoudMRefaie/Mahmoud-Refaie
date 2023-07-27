@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Instabug-Challenge</artifactId>
+    <artifactId>QA-Project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -31,7 +31,7 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>${testng.version}</version>
-            <!--            <scope>test</scope>-->
+            <!-- <scope>test</scope>-->
         </dependency>
         <!-- JSON FILE MANIPULATION -->
         <dependency>
