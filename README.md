@@ -46,8 +46,8 @@ In previous file it contains a sheet called [YallaKora Defects Report] that has 
 I created test account to login with, since facebook temporarily removed the ability to create new test users.
 * To run Facebook UI test cases, make sure that Google Chrome is updated with last version [115.0.5790.102]
 * Using data-driven solution in regiteration and login test cases.
-* In [Registration](Isrc/test/java/UI/Registration.java) class, 3 random and unique emails are registered as new user to facebook in one test using Data Provider
-* In [Login](Isrc/test/java/UI/Login.java) class, 3 test users logged in to facebook and Assert that this user logged in successfully, then logged out from the system in one test using Data Provider
+* In [Registration](src/test/java/UI/Registration.java) class, 3 random and unique emails are registered as new user to facebook in one test using Data Provider
+* In [Login](src/test/java/UI/Login.java) class, 3 test users logged in to facebook and Assert that this user logged in successfully, then logged out from the system in one test using Data Provider
 
 ## Fourth Part:
 Automate APIs through Best Buy API playground framework in local environment
