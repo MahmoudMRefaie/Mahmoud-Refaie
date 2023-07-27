@@ -1,0 +1,13 @@
+{
+  "created_category": {
+    "categoryID": "CategoryID_",
+    "categoryName": "New Category"
+  },
+  "categoryWithExistsId": {
+    "message": "Validation error",
+    "error": "id must be unique"
+  },
+  "categoryName_contains" : {
+    "substring": "TV"
+  }
+}

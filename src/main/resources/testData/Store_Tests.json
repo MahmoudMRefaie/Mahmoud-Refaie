@@ -1,0 +1,18 @@
+{
+  "created_store": {
+    "storeName": "New Store",
+    "storeType": "BigBox",
+    "storeAddress": "123 Fake St",
+    "city": "Springfield",
+    "state": "MN",
+    "zip": "55123",
+    "latitude": 44.969658,
+    "longitude": -93.449539,
+    "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 10-8"
+  },
+  "invalidInput": {
+    "hugeZipCode": "5523904832049203487320487087123",
+    "message": "Invalid Parameters",
+    "error": "'zip' should NOT be longer than 30 characters"
+  }
+}

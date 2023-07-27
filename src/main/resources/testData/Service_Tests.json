@@ -1,0 +1,10 @@
+{
+  "created_service": {
+    "serviceName": "This is New Service"
+  },
+  "service_InvalidInput": {
+    "invalidServiceName": 5,
+    "message": "Invalid Parameters",
+    "error": "'name' should be string"
+  }
+}

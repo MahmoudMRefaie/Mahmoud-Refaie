@@ -1,0 +1,29 @@
+{
+  "created_product": {
+    "productName": "New Product",
+    "type": "Hard Good",
+    "upc": "12345676",
+    "price": 99.99,
+    "description": "This is a placeholder request for creating a new product.",
+    "model": "NP12345"
+  },
+  "missingAttribute": {
+    "message": "Invalid Parameters",
+    "error": "should have required property 'model'"
+  },
+  "highestPriced_products": {
+    "productsNames": [
+      "Sony - ES SXRD 3D-Ready 4K Home Theater Projector - Black",
+      "Nikon - AF-S NIKKOR 800mm f/5.6E FL ED VR Super-Telephoto Lens for Select Nikon Cameras - Black",
+      "Sony - ES 4K SXRD Projector - Black",
+      "Canon - EF 800mm f/5.6L IS USM Super-Telephoto Lens for Canon EOS Cameras - White",
+      "Nikon - Nikkor AF-S 600mm f/4.0 E FL ED VR Optical Telephoto Lens for Nikon F - Black",
+      "Key Digital - Champion Series 16 x 16 HDMI Matrix Switcher - Black",
+      "Canon - EF 600mm f/4L IS II USM Super Telephoto Lens for Most Canon EOS SLR Cameras - White",
+      "Nikon - AF-S NIKKOR 400mm f/2.8E FL ED VR Lens for Select Nikon DSLR Cameras",
+      "Canon - EF 200-400mm f/4L IS USM Super Telephoto Lens for Most Canon EOS SLR Cameras - White",
+      "Nikon - AF-S NIKKOR 500mm f/4E FL ED VR Super Telephoto Lens - Black"
+    ]
+  }
+
+}
