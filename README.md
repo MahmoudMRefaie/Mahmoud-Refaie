@@ -1,4 +1,5 @@
 # QA-Project
+This project focuses on comprehensive testing of the Yalla Kora application and automating UI tests for Facebook login and API tests for the Best Buy API Playground. The primary goal is to ensure the robustness and reliability of the Yalla Kora application through meticulous manual processes, while also showcasing the implementation of data-driven solutions for Facebook UI test cases and API automation. Below is a detailed breakdown of the project's deliverables and instructions for running the tests:
 
 ## First Part:
 Testing Yalla Kora application
